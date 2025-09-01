@@ -1,0 +1,3 @@
+# DSPS_TTomaszewski
+Repo for PHYS461, Data Science
+Hello! I'm not sure anyone will really read this, but it is my hope that in this class we will be able to explore aspects of data science for physics (and especially astrophysics) applications. I cam completely new to the data science field, so I know I have a significant amount to learn. I am ectited to learn the general principles of organizing large data sets, and how to actually produce plots based off of large data sets. Additionally, just based off of the inital reading, it would be great to learn about better practices about drawing accurate conclusions from data--eg., not falling victim to survivorship bias. 
