@@ -1,2 +1,2 @@
 # Work:
-I Worked by myself for HW2.
+I Worked with Zoe and Alex for this homework.
