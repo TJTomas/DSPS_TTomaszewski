@@ -6,6 +6,8 @@
 Accoding to standards established in the lecture on visualizations, this plot automatically violates our guidelines by being a pie chart. According to the video, pie charts, "Should be avoided at all times." Sicne the human eye does not intiutively understand pie chart area well. 
 Additioanlly, while the plot has low ambiguity, the data is distorted in the pie chart fortmat. The labels themselves are a bit destracting, as the title is not capitalized correctly, "Phase" is included in every label, and the numbering/lettering of the datapoint is inconsistant, starting with a number and then switching to lettering.
 
+Finally, it seems like this data cannot be duplicated since while the paper does outline it does not give exact dates to compute the time distribution, only rough months. The data can be accessed here:
+
 https://www.sciencedirect.com/science/article/pii/S0273117723004623?ref=pdf_download&fr=RR-2&rr=99d05c9d29c520a5
 
 ## Good Plot
