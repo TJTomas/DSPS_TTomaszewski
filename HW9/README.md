@@ -1,6 +1,8 @@
 # TESt
 
-![alt text](https://github.com/TJTomas/DSPS_TTomaszewski/blob/main/HW9/bad_plot.png "Logo Title Text 1")
+## Good Plot
+![alt text](https://github.com/TJTomas/DSPS_TTomaszewski/blob/main/HW9/bad_plot.png "Bad Plot")
 
 
-![alt text](https://github.com/TJTomas/DSPS_TTomaszewski/blob/main/HW9/good_plot.png "Logo Title Text 1")
+## Bad Plot
+![alt text](https://github.com/TJTomas/DSPS_TTomaszewski/blob/main/HW9/good_plot.png "Good Plot")
