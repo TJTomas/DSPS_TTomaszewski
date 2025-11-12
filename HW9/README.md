@@ -6,7 +6,7 @@
 Accoding to standards established in the lecture on visualizations, this plot automatically violates our guidelines by being a pie chart. According to the video, pie charts, "Should be avoided at all times." Sicne the human eye does not intiutively understand pie chart area well. 
 Additioanlly, while the plot has low ambiguity, the data is distorted in the pie chart fortmat. The labels themselves are a bit destracting, as the title is not capitalized correctly, "Phase" is included in every label, and the numbering/lettering of the datapoint is inconsistant, starting with a number and then switching to lettering. Finally, it seems like this data cannot be duplicated since while the paper does outline it does not give exact dates to compute the time distribution, only rough months. 
 
-To improve this plot I would change it from a pie chart to a bar graph. I wuold try and come up with more dfinite dates of each phase of development, work on relabiling the phases so they have a consistant labeling scheme, and change the colors of the chart to be more colorblind-friendly. 
+To improve this plot I would change it from a pie chart to a bar graph. I wuold try and come up with more dfinite dates of each phase of development, work on relabiling the phases so they have a consistant labeling scheme, and change the colors of the chart to be more colorblind-friendly. This would be done to minimize abiguity, distortion, and distraction.
 
 The data can be accessed here:
 
