@@ -20,5 +20,7 @@ The bounds are well
 
 
 ## Old Plot
+![alt text](https://github.com/TJTomas/DSPS_TTomaszewski/blob/main/HW9/old_Plot.png "Good Plot")
 
 ## New Plot
+![alt text](https://github.com/TJTomas/DSPS_TTomaszewski/blob/main/HW9/Redone_Plot.png "Good Plot")
