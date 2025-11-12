@@ -33,4 +33,4 @@ The old plot is from homework 7, coming from the clustering that is done as a pa
 ## New Plot
 ![alt text](https://github.com/TJTomas/DSPS_TTomaszewski/blob/main/HW9/Redone_Plot.png "Good Plot")
 
-In the new plot, ambi
+In the new plot, ambiguity is improved by changing the colors of the points and error bars to colorblind-friendly colors. Distortion is improved as it is now much easier to see the ranges of ladder scores present in the data, and horizontal gridlines are added for the sake of clarity as well. Additionally, opacity is added to each point to better understand the way points are distributed in each cluster. Opacity was also different between data point and error bar to improve distinction between the two to better understand the present error. In terms of distraction, the data-to-ink ratio is closer to one with the reduction in the whitespace in the graph, and the physically smaller graph improves readability as well. Tufte’s lie factor is also improved as the size of the graphic is lowered. 
