@@ -14,11 +14,11 @@ https://www.sciencedirect.com/science/article/pii/S0273117723004623?ref=pdf_down
 ![alt text](https://github.com/TJTomas/DSPS_TTomaszewski/blob/main/HW9/good_plot.png "Good Plot")
 
 
-The bounds are well definied on both axis for particles and Kinetic energy. Information is clearly convayed on where the data coems from in terms of both where in space and from what instrument on IMAP picked up each ion. Additionally, I like how  the instrument key is color and gradient coded, corrisponding to the regions onf analysis. 
+The bounds are well defined on both axes for particles and Kinetic energy. Information is clearly conveyed on where the data comes from in terms of both where in space and from what instrument on IMAP picked up each ion. Additionally, I like how  the instrument key is color and gradient coded, corresponding to the regions of analysis. 
 
- Tgere is a very good use of space wityh very little white/unused space, also contributing to a large data-to-ink ratio. There is also a very low lie factor as there is no real size effect in the graphic or any unecessary style effects. Every feature is also coordinated with a graphical element as color is consistant between instrument and ion pickup region.
+ There is a very good use of space with very little white/unused space, also contributing to a large data-to-ink ratio. There is also a very low lie factor as there is no real size effect in the graphic or any unnecessary style effects. Every feature is also coordinated with a graphical element as color is consistent between instrument and ion pickup region.
 
-In terms of the style guide there is fairly low ambiguity on the graph, as each label and region coorisponds to an key feature in the graph, "Label important events in the data." There is low distortion as there are set units for each axis, and each axis has a low distortion as both are in long scales. Finally there is very little distraction as there are not any unecessary graphical effects. 
+In terms of the style guide there is fairly low ambiguity on the graph, as each label and region corresponds to an key feature in the graph, "Label important events in the data." There is low distortion as there are set units for each axis, and each axis has a low distortion as both are in long scales. Finally there is very little distraction as there are not any unnecessary graphical effects. 
 
 The plot can be accessed here:
 
@@ -27,5 +27,10 @@ https://pmc.ncbi.nlm.nih.gov/articles/PMC12575477/pdf/11214_2025_Article_1224.pd
 ## Old Plot
 ![alt text](https://github.com/TJTomas/DSPS_TTomaszewski/blob/main/HW9/old_Plot.png "Good Plot")
 
+The old plot is from homework 7, coming from the clustering that is done as a part of task six. This plot is exceptionally poor as while it does not have a high ambiguity, it has a high distortion and distraction. The data is distorted as it is hard to see how exactly the points are clustered in the graph and where exactly the points line up on the ladder score. In terms of distraction, the majority of the plot is white space. The white space contributes to a low data-to-ilk ratio and a large lie factor as the plot is physically much larger than it has any real right to be, as distance between cluster points. Finally the score errors don’t make much sense in the legend.
+
+
 ## New Plot
 ![alt text](https://github.com/TJTomas/DSPS_TTomaszewski/blob/main/HW9/Redone_Plot.png "Good Plot")
+
+In the new plot, ambi
