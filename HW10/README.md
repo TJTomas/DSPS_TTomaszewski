@@ -2,7 +2,9 @@
 
 ## Group Members:
 TJ Tomaszewski - Worked on all aspects of both notebooks.
+
 Katie Moses - Varous sanity checks.
+
 Jarrod Bieber - Worked on conceptual understanding of deepream as well as code sanity checks.
 
 ## Deep Dream
