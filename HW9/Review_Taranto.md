@@ -1,0 +1,7 @@
+**Improved Plot Review**
+
+TJ was able to improve greatly on the ambiguity attribute which was the main issue with the original plot. Originally, the lack of transparency makes the cluster density unreadable at high point densities. The transparency added nearly resolves this issue, however, I think a slightly higher transparency would be a little better. The colors have been adjusted to be more colorblind friendly, but as a someone who's severely colorblind, the two rightmost columns are difficult to parse from one another. However, this isn't too much of an issue due to the data being spacially separated. For improvements, I would recommend overlaying box and whisker plots. With so many data points, the statistics can be difficult to approximate visually which box and whisker plots would help with.
+
+**Bad Plot Review**
+
+TJ's bad literature plot is pretty straightforwardly problamatic. First, it is a pie chart which are inappropriate for representing time, a quantity which should scale linearly with intensity not quadratically. Second, the phase A and B slices of the plot use colors indistinguishable to me (colorblind). There is also ambiguity in the length of time for phases. This would be helped by extra labels, however this would further clutter the plot. The plot is likely irrecoverable without major reinvention. I would use a horizontal stacked bar plot as this is natural for sequential temporal durations.
